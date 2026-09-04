@@ -1,0 +1,2 @@
+# Kaze.storezz
+Kaze
